@@ -1,0 +1,15 @@
+# MCP客户端配置文件
+# 用于Claude Desktop或其他MCP客户端连接
+
+{
+  "mcpServers": {
+    "offer-matcher": {
+      "command": "python",
+      "args": ["-m", "src.mcp_server"],
+      "cwd": "c:\\Users\\Ayaco\\Desktop\\Code\\Seek4Info",
+      "env": {
+        "PYTHONPATH": "c:\\Users\\Ayaco\\Desktop\\Code\\Seek4Info"
+      }
+    }
+  }
+}

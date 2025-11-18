@@ -1,0 +1,27 @@
+姓名：张三
+电话：138-0000-0000
+邮箱：zhangsan@example.com
+
+教育背景：
+北京大学 - 计算机科学与技术 - 本科（2017-2021）
+
+工作经验：
+1. 某互联网公司 - Python后端工程师（2021.07 - 至今）
+   - 负责后端服务开发和维护
+   - 参与微服务架构设计和优化
+   - 开发RESTful API和GraphQL接口
+
+项目经验：
+1. 电商平台后端系统
+   - 使用Django开发，日均处理10万+订单
+   - 实现Redis缓存，提升响应速度50%
+   - 技术栈：Python, Django, MySQL, Redis, Docker
+
+技能：
+- 编程语言：Python, Java, JavaScript
+- 框架：Django, Flask, Spring Boot
+- 数据库：MySQL, PostgreSQL, MongoDB, Redis
+- 工具：Git, Docker, Kubernetes, Jenkins
+
+个人评价：
+3年Python后端开发经验，熟悉微服务架构，有大型项目经验，学习能力强。
